@@ -1,2 +1,2 @@
 # Anagramme
-A simple Anagramme
+A simple Anagram
